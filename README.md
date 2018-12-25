@@ -28,3 +28,16 @@ https://github.com/QUANTAXIS/QUANTAXIS/blob/master/Documents/indicators.md
 
 ### 事件框架
 https://github.com/QUANTAXIS/QUANTAXIS/blob/master/Documents/about_event.md
+
+### 回测服务
+待整理
+
+### 实盘交易
+http://www.iguuu.com/
+
+### REST服务
+https://github.com/QUANTAXIS/QUANTAXIS/blob/master/Documents/backendapi.md
+
+### 开发计划
+https://github.com/QUANTAXIS/QUANTAXIS/blob/master/job_list.md
+
