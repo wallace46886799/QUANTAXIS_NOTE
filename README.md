@@ -30,7 +30,7 @@ https://github.com/QUANTAXIS/QUANTAXIS/blob/master/Documents/indicators.md
 https://github.com/QUANTAXIS/QUANTAXIS/blob/master/Documents/about_event.md
 
 ### 回测服务
-待整理
+在Jupyter中显示图片，输入 %matplotlib inline
 
 ### 实盘交易
 http://www.iguuu.com/
