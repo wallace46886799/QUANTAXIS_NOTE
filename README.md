@@ -41,3 +41,15 @@ https://github.com/QUANTAXIS/QUANTAXIS/blob/master/Documents/backendapi.md
 ### 开发计划
 https://github.com/QUANTAXIS/QUANTAXIS/blob/master/job_list.md
 
+
+## QUANTAXIS应用
+### 切换Python环境
+source activate quantaxis
+
+### 启动QUANTAXIS_WEBSERVER
+cd $WORK/Frameworks/Python/QuantAxis/QUANTAXIS_WEBSERVER
+quantaxis_webserver --port=8010
+
+### 启动QADESKTOP
+cd $WORK/Frameworks/Python/QuantAxis/QADESKTOP
+npm run dev
