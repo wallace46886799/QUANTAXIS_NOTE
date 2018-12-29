@@ -47,16 +47,16 @@ https://github.com/QUANTAXIS/QUANTAXIS/blob/master/job_list.md
 source activate quantaxis
 
 ### 启动QUANTAXIS_WEBSERVER,此服务为后端REST API
-cd $WORK/Frameworks/Python/QuantAxis/QUANTAXIS_WEBSERVER
+cd $WORK/Frameworks/GitHub/quantaxis/QUANTAXIS_WEBSERVER
 quantaxis_webserver --port=8010
 默认访问地址为：http://localhost:8010
 
 ### 启动QADESKTOP，此服务为桌面版界面
-cd $WORK/Frameworks/Python/QuantAxis/QADESKTOP
+cd $WORK/Frameworks/GitHub/quantaxis/QADESKTOP
 npm run dev
 
 ### 启动QUANTAXIS_Webkit Web，此服务为H5版界面
-cd $WORKFrameworks/Python/QuantAxis/QUANTAXIS_Webkit/web
+cd $WORK/Frameworks/GitHub/quantaxis/QUANTAXIS_Webkit/web
 
 ### 启动QUANTAXIS_Webkit Mobile Web，此服务为移动版界面
-cd $WORKFrameworks/Python/QuantAxis/QUANTAXIS_Webkit/mweb
+cd $WORK/Frameworks/GitHub/quantaxis/QUANTAXIS_Webkit/mweb
