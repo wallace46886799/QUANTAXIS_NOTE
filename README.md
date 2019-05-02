@@ -45,7 +45,7 @@ https://github.com/QUANTAXIS/QUANTAXIS/blob/master/job_list.md
 ## QUANTAXIS应用
 ### 启动Mongo DB
 sudo mongod
-此处注意：mongod 而不是 mongodb
+[此处注意：mongod 而不是 mongodb]
 
 
 ### 切换Python环境
